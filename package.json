@@ -1,0 +1,19 @@
+{
+  "name": "insertdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "kue": "^0.11.5",
+    "node-neo4j": "^2.0.3",
+    "request": "^2.79.0",
+    "thrift": "^0.9.3"
+  }
+}
